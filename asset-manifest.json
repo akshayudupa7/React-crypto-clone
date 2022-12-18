@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-crypto-clone/static/css/main.934c289a.css",
+    "main.js": "/React-crypto-clone/static/js/main.eb076ede.js",
+    "index.html": "/React-crypto-clone/index.html",
+    "main.934c289a.css.map": "/React-crypto-clone/static/css/main.934c289a.css.map",
+    "main.eb076ede.js.map": "/React-crypto-clone/static/js/main.eb076ede.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.934c289a.css",
+    "static/js/main.eb076ede.js"
+  ]
+}
